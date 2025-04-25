@@ -1,0 +1,8 @@
+username,company_organization,industry,business_strategy,marketing_sales,product_development,operations_logistics,financial_management,human_resources,legal_regulatory_compliance,technology_it,scaling_growth,sustainability_social_impact,description
+Olivia,Global.Inc,Retail,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,Software Development
+John,Govt.Inc,Healthcare,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,Apparel
+Charlotte,Govt.Inc,Food and Beverage,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Utilities
+Warner,Global.LLC,Education,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,Film and Television
+Shubham123,ABC,Healthcare,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,retail and tech
+Sumut123,ABC,Healthcare,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,retail and tech
+Shubham1234,ABC,Technology,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,tech and retail
